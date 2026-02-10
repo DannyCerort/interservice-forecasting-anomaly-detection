@@ -1,4 +1,3 @@
-readme_md = """
 # Interservice — Pronóstico y Detección de Anomalías en Facturación
 
 Dashboard desarrollado en Streamlit para el análisis de facturación,
@@ -22,6 +21,7 @@ El repositorio no versiona entornos virtuales ni datos sensibles.
 ### 1.2 Clonar el repositorio
 
 git clone https://github.com/DannyCerort/interservice-forecasting-anomaly-detection.git
+
 cd <TU_REPO>
 
 ---
@@ -210,4 +210,4 @@ P(anomalía) ≈ (1 / S) · Σ_{s=1}^{S} A_{T+1}(y_sim^{(s)})
 ## Licencia
 
 MIT
-"""
+
