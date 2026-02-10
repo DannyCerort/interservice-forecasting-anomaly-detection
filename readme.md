@@ -21,7 +21,7 @@ El repositorio no versiona entornos virtuales ni datos sensibles.
 
 ### 1.2 Clonar el repositorio
 
-git clone https://github.com/<TU_USUARIO>/<TU_REPO>.git  
+git clone https://github.com/DannyCerort/interservice-forecasting-anomaly-detection.git
 cd <TU_REPO>
 
 ---
